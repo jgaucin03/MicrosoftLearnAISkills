@@ -1,4 +1,4 @@
-// Create Web Server 
+// Create web server 
 // Create a Web Server that can listen to requests for /comments and serve a JSON file to the browser.
 
 // The JSON file should contain an array of objects, each object should have a key-value pair like so:
